@@ -528,7 +528,7 @@ footer {
 /* Responsive */
 @media (max-width: 480px) {
   .hero h2 { font-size: 2.1rem; }
-  .project { padding: 1.5rem; }
+  nav h1 { font-size: 0.875rem; }
   nav ul { flex-wrap: wrap; justify-content: center; }
   #skills .grid {
     gap: 1.5rem;
@@ -540,7 +540,7 @@ footer {
 
   .project {
     grid-template-columns: 1fr;
-    padding: 2rem;
+    padding: 1.5rem;
   }
 
   .project-image {
