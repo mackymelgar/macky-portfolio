@@ -25,7 +25,7 @@ export default function Contact() {
               target="_blank"
               rel="noreferrer"
             >
-              markedre.melgar
+              Mark Edre Melgar
             </a>
           </div>
         </div>
