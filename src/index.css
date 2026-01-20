@@ -506,6 +506,7 @@ input:focus, textarea:focus {
 /* Footer */
 footer {
   text-align: center;
+  height: 60px;
   padding: 2rem 1.5rem;
   border-top: 1px solid var(--border);
   background: var(--bg-alt);
@@ -582,5 +583,8 @@ footer {
   {
     width: 100%;
     margin-right: 0;
+  }
+  footer {
+    height: 40px;
   }
 }
