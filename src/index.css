@@ -9,6 +9,7 @@
   --max-width: 1024px;
   --nav-height: 70px;
   --radius: 8px;
+  
 }
 
 /* Reset & Base */
@@ -505,7 +506,7 @@ input:focus, textarea:focus {
 /* Footer */
 footer {
   text-align: center;
-  padding: 3rem 1.5rem;
+  padding: 2rem 1.5rem;
   border-top: 1px solid var(--border);
   background: var(--bg-alt);
   color: var(--text-muted);
