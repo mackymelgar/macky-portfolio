@@ -564,12 +564,12 @@ footer {
   }
 
   .about {
-    padding: 6rem 1.25rem;  
+    padding: 4rem 1.25rem;  
     min-height: auto;   
   }
 
   .skills {
-    padding: 6rem 1.25rem;  
+    padding: 4rem 1.25rem;  
     min-height: auto;   
   }
 
@@ -585,7 +585,7 @@ footer {
 
   .project {
     grid-template-columns: 1fr;
-    padding: 6rem 1.25rem;  
+    padding: 4rem 1.25rem;  
     min-height: auto; 
   }
 
@@ -603,7 +603,7 @@ footer {
   }
 
   .contact {
-    padding: 6rem 1.25rem;  
+    padding: 4rem 1.25rem;  
     min-height: auto; 
   }
 
@@ -631,6 +631,6 @@ footer {
   }
   footer {
     font-size: 0.9rem;
-    height: 30px;
+    height: 25px;
   }
 }
