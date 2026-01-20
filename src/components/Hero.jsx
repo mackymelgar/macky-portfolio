@@ -9,13 +9,13 @@ export default function Hero() {
         className="hero-avatar"
       />
 
-      <h2>Edre Mark “Macky” Melgar</h2>
+      <h2>Edre Mark Melgar</h2>
       <h3>IT Student | Web Developer</h3>
       <p>From imagination to implementation.</p>
 
       <div className="buttons">
-        <a href="#projects" className="btn">View Projects</a>
-        <a href="#contact" className="btn outline">Contact Me</a>
+        <a href="#projects" className="btn">Projects</a>
+        <a href="#contact" className="btn outline">Contact</a>
       </div>
     </section>
   )
