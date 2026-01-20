@@ -530,11 +530,9 @@ footer {
 
 /* Responsive */
 @media (max-width: 480px) {
-  .section {
-    padding: 5rem 1.25rem;
-  }
+ 
   .hero {
-    padding: 5rem 1.25rem;   /* reduce vertical space */
+    padding: 6rem 1.25rem;   /* reduce vertical space */
     min-height: auto;        /* remove tall hero behavior */
     gap: 0.75rem;            /* tighter spacing if using flex */
   }
@@ -566,7 +564,12 @@ footer {
   }
 
   .about {
-    padding: 5rem 1.25rem;  
+    padding: 6rem 1.25rem;  
+    min-height: auto;   
+  }
+
+  .skills {
+    padding: 6rem 1.25rem;  
     min-height: auto;   
   }
 
@@ -582,7 +585,8 @@ footer {
 
   .project {
     grid-template-columns: 1fr;
-    padding: 1.5rem;
+    padding: 6rem 1.25rem;  
+    min-height: auto; 
   }
 
   .project-image {
@@ -596,6 +600,11 @@ footer {
   .links {
     flex-direction: column;
     gap: 0.75rem;
+  }
+
+  .contact {
+    padding: 6rem 1.25rem;  
+    min-height: auto; 
   }
 
   .contact-container {
